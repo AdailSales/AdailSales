@@ -28,17 +28,17 @@ Here are some ideas to get you started:
 ## Sobre mim (abstract)
 👨‍🏫 Atualmente trabalho como professor de Língua Portuguesa.
 
-🐍 Interessado em Python e suas aplicações em Machine Learning.
+🐍 Interessado em Probabilidade, Estatística e Machine Learning.
 
 🤖 Amo IA e desenvolvimento de bots.
 
-📚 Atualmente estudando Javascript, PHP e Banco de dados.
+📚 Atualmente estudando Python e Banco de dados.
 
 💻 Tenho um canal no YouTube em que transmito as aulas de programação do curso no qual sou facilitador.
 
 ## Hobbies
 
-🎥 Sou realizador audivisual, já dirigi e produzi alguns curtas.
+🎥 Sou realizador audiovisual, já dirigi e produzi alguns curtas.
 
 📺 Gosto de assistir séries e animes.
 
