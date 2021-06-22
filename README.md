@@ -8,7 +8,8 @@ Como venho de uma formação em Letras que por natureza é uma área multidiscip
 
 Desta forma, posso afirmar que tenho um perfil que tende mais para o desenvolvedor generalista do que o especialista e isso pode ser levemente contemplado até mesmo pelo número de linguagens de programação que já tive contato e que desenvolvi alguns projetos, são elas: JavaScript, PHP, Python, Ruby, Lua e Shell Script.
 
-O modelo do profissional em T é um modelo que já existe há bastante tempo, desde a década de 90. Para mim, esse modelo é um salto quântico em relação ao modelo puramente especialista. O processo de desenvolvimento é um trabalho colaborativo, iterativo e criativo, no qual times multifuncionais são essenciais e devem acompanhar cada funcionalidade a ser colocada em produção, o que é muito adequado para este tipo de profissional multidisciplinar.
+O profissional em T (em seu traço horizontal) possui um olhar amplo e generalista, pensamento e capacidade de colaboração multifuncional e ainda aprofunda (em seu traço vertical) uma especialidade. Para mim, esse modelo é um salto quântico em relação ao modelo puramente especialista ou puramente generalista. O processo de desenvolvimento é um trabalho colaborativo, iterativo e criativo, no qual times multifuncionais são essenciais e devem acompanhar cada funcionalidade a ser colocada em produção, o que é muito adequado para este tipo de profissional multidisciplinar. Um mundo dinâmico, ultraconectado pede profissionais em T.
+
 
 <!--
 **AdailSales/AdailSales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
