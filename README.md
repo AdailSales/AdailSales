@@ -29,11 +29,9 @@ Here are some ideas to get you started:
 ## Sobre mim (abstract)
 👨‍🏫 Atualmente trabalho como professor de Língua Portuguesa.
 
-🐍 Interessado em Probabilidade, Estatística e Machine Learning.
+🐍 Interessado nos seguintes temas: Clean Code, Agile Software, TDD (Desenvolvimento Orientado a Testes).
 
-🤖 Amo IA e desenvolvimento de bots.
-
-📚 Atualmente estudando Python e Banco de dados.
+📚 Atualmente estudando PHP, Laravel e Banco de dados.
 
 💻 Tenho um canal no YouTube em que transmito as aulas de programação do curso no qual sou facilitador.
 
